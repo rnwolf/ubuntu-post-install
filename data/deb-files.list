@@ -1,5 +1,6 @@
 https://atom-installer.github.com/v1.21.1/atom-amd64.deb ATOM-Editor.deb
 https://atom-installer.github.com/v1.22.0-beta0/atom-amd64.deb ATOM-Editor-Beta.deb
-https://www.mendeley.com/repositories/ubuntu/stable/amd64/mendeleydesktop-latest Mendeley-Desktop.deb
 https://www.unifiedremote.com/download/linux-x64-deb Unified-Remote.deb
-https://download.teamviewer.com/download/teamviewer_i386.deb Teamviewer.deb
+https://launchpad.net/ubuntu/artful/+upload/16734103/+files/libsane-common_1.0.27-1~experimental2ubuntu2.1_all.deb libsane-common_1.0.27-1~experimental2ubuntu2.1_all.deb
+https://launchpad.net/ubuntu/artful/+upload/16734103/+files/libsane1_1.0.27-1~experimental2ubuntu2.1_amd64.deb libsane1_1.0.27-1~experimental2ubuntu2.1_amd64.deb
+https://launchpad.net/ubuntu/artful/+upload/16734103/+files/sane-utils_1.0.27-1~experimental2ubuntu2.1_amd64.deb sane-utils_1.0.27-1~experimental2ubuntu2.1_amd64.deb
