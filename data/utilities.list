@@ -8,9 +8,7 @@ nautilus-admin
 playonlinux
 dconf-editor
 flashplugin-installer
-bleachbit
 gdebi
-imwheel
 gufw
 lm-sensors
 pavucontrol
@@ -25,5 +23,6 @@ intel-microcode
 chrome-gnome-shell
 gnome-shell-extensions
 gnome-tweak-tool
+green-recorder
 kdeconnect
 stow
