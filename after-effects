@@ -613,8 +613,8 @@ function add_repositories()
   apt-key add apt-key.gpg 2>&1 | _add_timestamp_to_aptkey_logs
   _log_and_show "${_adding} Google-Cloud-SDK repository"
   echo "deb http://packages.cloud.google.com/apt $CLOUD_SDK_REPO main #Google Cloud SDK" > ${SOURCES_FILE_DIR}/google-cloud-sdk.list  || _log_and_show "Adding GCSFUSE Repository failed"
-  _log_and_show "${_adding} GCSFUSE repository"
-  echo "deb http://packages.cloud.google.com/apt $GCSFUSE_REPO main #GCSFUSE" > ${SOURCES_FILE_DIR}/gcsfuse.list  || _log_and_show "Adding Google Cloud SDK Repository failed"
+  # _log_and_show "${_adding} GCSFUSE repository"
+  #echo "deb http://packages.cloud.google.com/apt $GCSFUSE_REPO main #GCSFUSE" > ${SOURCES_FILE_DIR}/gcsfuse.list  || _log_and_show "Adding Google Cloud SDK Repository failed"
   #AWS
   # Handled by pip
 
