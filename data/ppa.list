@@ -2,10 +2,10 @@ ppa:nilarimogard/webupd8
 ppa:mozillateam/firefox-next
 ppa:libreoffice/libreoffice-prereleases
 ppa:peek-developers/stable
-ppa:ansible/ansible #ansible ansible 
-ppa:fossproject/ppa #python-pydbus python-pydbus green-recorder green-recorder 
-ppa:kdenlive/kdenlive-stable #libmlt++3 libmlt-data libmlt-data libmlt-data libmlt-data libmlt6 melt frei0r-plugins 
-ppa:obsproject/obs-studio #obs-studio 
-ppa:otto-kesselgulasch/gimp-edge #gimp-gmic libbabl-0.1-0 gimp-plugin-registry libjasper1 gimp-data gimp-data gimp-data gimp-data liblcms2-2 gimp libmypaint libwebpmux3 libwebp6 libgimp2.0 libwebpdemux2 libgegl-0.3-0 
-ppa:teejee2008/ppa #aptik 
-ppa:ubuntuhandbook1/corebird #corebird 
+ppa:ansible/ansible
+ppa:fossproject/ppa
+ppa:kdenlive/kdenlive-stable
+ppa:obsproject/obs-studio
+ppa:otto-kesselgulasch/gimp-edge
+ppa:teejee2008/ppa
+ppa:ubuntuhandbook1/corebird
