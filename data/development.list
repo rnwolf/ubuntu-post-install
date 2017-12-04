@@ -22,8 +22,9 @@ software-properties-common
 spyder
 spyder3
 stow
+tk-dev
 vainfo
 vdpauinfo
 wget
-xz-utils tk-dev
+xz-utils 
 zlib1g-dev
